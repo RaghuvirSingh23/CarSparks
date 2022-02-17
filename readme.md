@@ -29,7 +29,8 @@ Editor: Eclipse
 
 Operating System: Windows Family
 
-**Modules** 
+**Modules** 
+
 
 - **Sign in/ Sign Up**: This module has sign up page with authenticates the user from the database information. Also, any user can Sign in using their google accounts. New users can register themselves in the database and then log in.
 - **User Dashboard**: In this section, the user can see their past bookings, they can choose the check in time and slots for parking. They can choose services as add on.
@@ -40,47 +41,14 @@ Operating System: Windows Family
 - **Search**: In this section, admin can search a particular vehicle by parking number. 
 - Admin can also update his profile, change the password, and recover the password.
 
-**Getting info**
 
-**Provide Details**
-
-**Parking**
-
-**System**
-
-**Admin**
-
-**Vehicle Database**
-
-**Manage Vehicle**
 
 ![](Aspose.Words.f694e1e2-5113-4675-98e7-0e70b9854e74.001.png)
 
-**Admin**
-
-**Registration**
-
-**Vehicle Details**
-
-**Customer Details**
-
-**Register    Details**
-
-**Vehicle Database**
-
-**Customer Database**
-
-**Getting Info**
-
-**Getting Info**
-
-**Provide Details**
-
-**Successfully Registered**
 
 ![](Aspose.Words.f694e1e2-5113-4675-98e7-0e70b9854e74.002.png)
 
-**Working**
+
 
 At the start the landing page appears where there are options for user login and admin login. User can then either login or register. There are 2 cases user login and admin.
 
