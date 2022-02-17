@@ -43,10 +43,10 @@ Operating System: Windows Family
 
 
 
-![](https://i.ibb.co/0sG4Zjz/image.png)
+![img](https://i.ibb.co/0sG4Zjz/image.png)
 
 
-![](https://i.ibb.co/NLhG0jd/image.png)
+![img](https://i.ibb.co/NLhG0jd/image.png)
 
 
 
