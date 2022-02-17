@@ -43,7 +43,7 @@ Operating System: Windows Family
 
 
 
-![](Aspose.Words.f694e1e2-5113-4675-98e7-0e70b9854e74.001.png)
+![](https://ibb.co/WV28FWR)
 
 
 ![](Aspose.Words.f694e1e2-5113-4675-98e7-0e70b9854e74.002.png)
